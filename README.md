@@ -26,19 +26,35 @@ Benefits its healthy and rather cheap!
 
 # EXAMPLE of a 2000kcal Pack
 
+Goals: 2000 kcal
+Recommended Nutritional Values (see e.g. http://www.myfitnesspal.com): 
+ - 125g Carbs
+ - 46g Fat
+ - 227g Protein
+
 ## BREAKFAST
-    1/6 of a pack of croissants: https://www.openfood.ch/de/products/14153 
-    Calories: 138 kcal 
-    Nutritional Values: 
-    Price for whole Package:
+    2/6 of a pack of croissants: https://www.openfood.ch/de/products/14153 
+    Calories: 276 kcal (extracted from API)
+    Nutritional Values: 30g Carbs, 14g Fat, 6g Protein (extracted from API)
+    Price for whole Package: 3 CHF (extracted via https://produkte.migros.ch/m-classic-buttergipfel-frischback)
 
 ## LUNCH 
-    Whole Pack of  TABOULÉ-SALAT MIT POULET: https://www.openfood.ch/de/products/8310
-    Calories: 455 kcal
-    Nutritional Values: Sugar 8,8g , Fat 17,5g, Proteins: Xg? 
-    Price for whole Package:
+    Whole Pack of  Vegi Bulgursalat mit Hummus-Dip: https://www.openfood.ch/de/products/13264
+    Calories: 523 kcal (extracted from API)
+    Nutritional Values: Carbs 14g , Fat 5g, Proteins: 4g  (extracted from API)
+    Price for whole Package: 6.40 CHF (extracted via https://produkte.migros.ch/vegi-bulgursalat-mit-hummus-dip)
+    -
+    Dessert M-CLASSIC KOKOS/SCHOKOLADE JOGHURT: https://www.openfood.ch/de/products/13541
+    Calories: 223 kcal
+    Nutritional Values: 27g Carbs, 10g Fat, 5g Protein
+    Price for the whole Pacakge (1 Yoghurt) 0.55 CHF (extracted via https://produkte.migros.ch/m-classic-joghurt-kokosschokolade)
+
 
 ## DINNER
+    Whole Pack of Migros Lasagne 1kg: https://www.openfood.ch/de/products/15016
+    Calories: 1280kcal (extracted from API)
+    Nutritional Values: 
+    Price for whole Package: 5CHF (extracted from https://produkte.migros.ch/m-budget-lasagne-bolognese)
 
 # MOCKUP
 
@@ -53,6 +69,7 @@ TODO
 - Problems:
  - API is incomplete and does not contain all the necessary nutritional values. 
  - API does not contain the price of the products. 
+ - Unsolved how to link between openfood.ch and produkte.migros.ch
 
 # FINAL THOUGHTS
 
