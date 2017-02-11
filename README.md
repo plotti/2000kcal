@@ -1,5 +1,7 @@
 # 2000kcal Project
 
+Eat healthy, lose weight and save money. 
+
 # PROBLEM
 
 For most people who want to lose weight you are supposed to do only one thing: Consume less calories than you need. This often means:
