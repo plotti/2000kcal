@@ -10,10 +10,10 @@ For most people who want to lose weight you are supposed to do only one thing: C
 2. Still eat the right nutritional values. 
 
 #HSLIDE
-## PROBLEM 
-Trying to figure those two things out is very time consuming, you will have to track every food you eat with tools like http://myfitnesspal.com. These tools will tell you how much calories a certain food has and how much nutritional value it has. But:
+## PROBLEM (continued)
+Trying to figure those two things out is very time consuming, you will have to track every food you eat with tools like http://myfitnesspal.com. But:
 
-1. Its hard to guess how much you actually ate of it. Unless it was the whole can. 
+1. Its hard to guess how much you actually ate. Unless it was the whole can. 
 2. Those tools won't tell you WHAT to eat. 
 
 So you are on your own, you have to create your own diet plans and try to tediously to stick to them. 
@@ -27,6 +27,7 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
 2. Picked up bundled in your supermarket (not very practical see final thoughts below)
 3. With the use of an app the consumer can be guided to pick these up at the store.
 
+## IDEA: The 2kcal pack (continued)
 ![App](http://i.imgur.com/PNUL8oC.jpg "A little app helps you to find your 2kcal pack")
 
 #HSLIDE
