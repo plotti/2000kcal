@@ -36,21 +36,17 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
 
 1. Its healthy
 2. You can be lazy while dieting
-3. You will save money!
+3. It helps you to shop the right things. 
+4. You will save money!
 
 ## EXAMPLE of a 2kcal Pack
 
-Caloric Goals: 
-
-- 2000 kcal
-
-Recommended Nutritional Values (see e.g. http://www.myfitnesspal.com): 
-
-- 125g Carbs
-- 46g Fat
-- 227g Protein
-
-Optimally this pack is cheap and easy to prepare. Compare 14.95CHF of the pack vs. 60 CHF (10CHF for breakfast at bakery, 25CHF for lunch in a restaurant, and 25 CHF for dinner in a restaurant). 
+- Caloric Goals: 2000 kcal
+- Recommended Nutritional Values (see e.g. http://www.myfitnesspal.com): 
+ - 125g Carbs
+ - 46g Fat
+ - 227g Protein
+- Optimally this pack is cheap and easy to prepare. Compare 14.95CHF of the pack vs. 60 CHF (10CHF for breakfast at bakery, 25CHF for lunch in a restaurant, and 25 CHF for dinner in a restaurant). 
 
 ### BREAKFAST
     2/6 of a pack of croissants: https://www.openfood.ch/de/products/14153 
@@ -83,9 +79,14 @@ Optimally this pack is cheap and easy to prepare. Compare 14.95CHF of the pack v
     Tap water
 
 ### SUMMARY
-    Calories: 276+ 253 + 223 + 1280 = 2032 --> We could say the goal is met
-    Nutritional values: 191g Carbs, 84g Fat, 87g Protein --> We overate on carbs and fat, but did not eat enough protein. (If there were stars I would rate this pack only 3/5 stars because those conditions are not met)
+    Calories: 276+ 253 + 223 + 1280 = 2032 
+    Nutritional values: 191g Carbs, 84g Fat, 87g 
     Cost: 3 CHF + 6.40 CHF+ 0.55 CHF + 5 CHF = 14.95 CHF
+
+- We could say the caloric goal is met < 2k
+- We over-ate on carbs(>125g) and fat (>46g), but did not eat enough protein(<227g).
+- We only spend 15CHF this day. 
+- I would rate this pack only 3/5 stars because those conditions are not met
 
 ## EVALUATION
 
