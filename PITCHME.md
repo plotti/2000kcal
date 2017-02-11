@@ -51,7 +51,7 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
 - This pack is cheap and easy to prepare.
  - Compare 14.95CHF of the pack vs. 60 CHF (10CHF breakfast at bakery, 25CHF for lunch in a restaurant, and 25 CHF for dinner in a restaurant). 
 
-#HSLIDE
+#HSLIDE?image=https://d2v5oodgkvnw88.cloudfront.net/uploads_production/image/data/64434/xlarge_7616700001174.jpg
 ## EXAMPLE of a 2kcal Pack BREAKFAST
     2/6 of a pack of croissants: https://www.openfood.ch/de/products/14153 
     Calories: 276 kcal (extracted from API)
@@ -60,7 +60,7 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
     -
     Coffe from coffe machine at home. 
 
-#HSLIDE
+#HSLIDE?image=https://d2v5oodgkvnw88.cloudfront.net/uploads_production/image/data/60141/xlarge_7613269552871.jpg
 ## EXAMPLE of a 2kcal Pack LUNCH 
     Whole Pack of  Vegi Bulgursalat mit Hummus-Dip: https://www.openfood.ch/de/products/13264
     Calories: 523 kcal (extracted from API)
@@ -74,7 +74,7 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
     - 
     Tap water
 
-#HSLIDE
+#HSLIDE?image=https://d2v5oodgkvnw88.cloudfront.net/uploads_production/image/data/68382/xlarge_9005545002749.jpg
 ## EXAMPLE of a 2kcal Pack DINNER
     Whole Pack of Migros Lasagne 1kg: https://www.openfood.ch/de/products/15016
     Calories: 1280kcal (extracted from API)
