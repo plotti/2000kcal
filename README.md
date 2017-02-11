@@ -85,12 +85,11 @@ Optimally this pack is cheap and easy to prepare. Compare 14.95CHF of the pack v
 # EVALUATION
 
 - Problems:
- - API is incomplete and does not contain all the necessary nutritional values. 
- - API does not contain the price of the products. 
+ - openfood API is incomplete and does not contain all the necessary nutritional values. 
+ - openfood API does not contain the price of the products. 
  - Unsolved how to link between openfood.ch and produkte.migros.ch
 
 # FINAL THOUGHTS
 
 - The 2000kcal packs would of course be "virtual", thus on a website or app, since bundling those projects together is not feasible for a supermarket because of different storage conditions (e.g. a yoghurt needs to be stored in the fridge, but you don't want your croissants to be frozen :))
 - The app could of course combine the nutritions and the receipe. (e.g. how to prepare a salad using those 3 ingredients)
-TODO
