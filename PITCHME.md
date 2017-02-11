@@ -43,17 +43,13 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
 #HSLIDE
 ## EXAMPLE of a 2kcal Pack
 
-Caloric Goals: 
-
-- 2000 kcal
-
-Recommended Nutritional Values (see e.g. http://www.myfitnesspal.com): 
-
-- 125g Carbs
-- 46g Fat
-- 227g Protein
-
-Optimally this pack is cheap and easy to prepare. Compare 14.95CHF of the pack vs. 60 CHF (10CHF for breakfast at bakery, 25CHF for lunch in a restaurant, and 25 CHF for dinner in a restaurant). 
+- Caloric Goals: 2000 kcal
+- Recommended Nutritional Values (see e.g. http://www.myfitnesspal.com): 
+ - 125g Carbs
+ - 46g Fat
+ - 227g Protein
+- This pack is cheap and easy to prepare.
+ - Compare 14.95CHF of the pack vs. 60 CHF (10CHF breakfast at bakery, 25CHF for lunch in a restaurant, and 25 CHF for dinner in a restaurant). 
 
 #HSLIDE
 ## EXAMPLE of a 2kcal Pack BREAKFAST
