@@ -2,6 +2,7 @@
 
 ![Logo](http://i.imgur.com/ewtsGPn.png "Eat healthy, lose weight, shop like a pro and save money.")
 
+#HSLIDE
 # PROBLEM
 
 For most people who want to lose weight you are supposed to do only one thing: Consume less calories than you need. This often means:
@@ -16,6 +17,7 @@ Trying to figure those two things out is very time consuming, you will have to t
 
 So you are on your own, you have to create your own diet plans and try to tediously to stick to them. 
 
+#HSLIDE
 # IDEA: The 2kcal pack
 
 So what if people sat together (think of community) and build daily 2000 kcal Packs that are build out of the existing products available in common super markets. These Packs can be either be:
@@ -33,6 +35,7 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
 2. You can be lazy while dieting
 3. You will save money!
 
+#HSLIDE
 # EXAMPLE of a 2kcal Pack
 
 Caloric Goals: 
@@ -82,6 +85,7 @@ Optimally this pack is cheap and easy to prepare. Compare 14.95CHF of the pack v
     Nutritional values: 191g Carbs, 84g Fat, 87g Protein --> We overate on carbs and fat, but did not eat enough protein. (If there were stars I would rate this pack only 3/5 stars because those conditions are not met)
     Cost: 3 CHF + 6.40 CHF+ 0.55 CHF + 5 CHF = 14.95 CHF
 
+#HSLIDE
 # EVALUATION
 
 - Problems:
@@ -89,6 +93,7 @@ Optimally this pack is cheap and easy to prepare. Compare 14.95CHF of the pack v
  - openfood API does not contain the price of the products. 
  - Unsolved how to link between openfood.ch and produkte.migros.ch
 
+#HSLIDE
 # FINAL THOUGHTS
 
 - The 2000kcal packs would of course be "virtual", thus on a website or app, since bundling those projects together is not feasible for a supermarket because of different storage conditions (e.g. a yoghurt needs to be stored in the fridge, but you don't want your croissants to be frozen :))
