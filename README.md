@@ -22,12 +22,38 @@ So what if people sat together and build daily 2000 kcal Packs that are build ou
 2. Picked up bundled in your supermarket
 3. With the use of an app the consumer can be guided to pick these up at the store
 
+Benefits its healthy and rather cheap!
+
+# EXAMPLE of a 2000kcal Pack
+
+## BREAKFAST
+    1/6 of a pack of croissants: https://www.openfood.ch/de/products/14153 
+    Calories: 138 kcal 
+    Nutritional Values: 
+    Price for whole Package:
+
+## LUNCH 
+    Whole Pack of  TABOULÉ-SALAT MIT POULET: https://www.openfood.ch/de/products/8310
+    Calories: 455 kcal
+    Nutritional Values: Sugar 8,8g , Fat 17,5g, Proteins: Xg? 
+    Price for whole Package:
+
+## DINNER
+
+# MOCKUP
+
+TODO
 
 # EXECUTION
+
 TODO
 
 # EVALUATION
-TODO
+
+- Problems:
+ - API is incomplete and does not contain all the necessary nutritional values. 
+ - API does not contain the price of the products. 
 
 # FINAL THOUGHTS
+
 TODO
