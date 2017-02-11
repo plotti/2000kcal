@@ -1,4 +1,3 @@
-# 2000kcal Project
 
 ![Logo](http://i.imgur.com/ewtsGPn.png "Eat healthy, lose weight, shop like a pro and save money.")
 
