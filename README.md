@@ -1,6 +1,6 @@
 # 2000kcal Project
 
-Eat healthy, lose weight and save money. 
+![Logo](http://i.imgur.com/ewtsGPn.png "Eat healthy, lose weight, shop like a pro and save money.")
 
 # PROBLEM
 
