@@ -89,9 +89,14 @@ Optimally this pack is cheap and easy to prepare. Compare 14.95CHF of the pack v
 
 #HSLIDE
 ## EXAMPLE of a 2kcal Pack SUMMARY
-    Calories: 276+ 253 + 223 + 1280 = 2032 --> We could say the goal is met
-    Nutritional values: 191g Carbs, 84g Fat, 87g Protein --> We overate on carbs and fat, but did not eat enough protein. (If there were stars I would rate this pack only 3/5 stars because those conditions are not met)
+    Calories: 276+ 253 + 223 + 1280 = 2032 
+    Nutritional values: 191g Carbs, 84g Fat, 87g 
     Cost: 3 CHF + 6.40 CHF+ 0.55 CHF + 5 CHF = 14.95 CHF
+
+- We could say the caloric goal is met
+- We over-ate on carbs and fat, but did not eat Protein enough protein.
+- We only spend 15CHF this day. 
+- If there were stars I would rate this pack only 3/5 stars because those conditions are not met)
 
 #HSLIDE
 ## EVALUATION
