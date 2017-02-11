@@ -2,7 +2,7 @@
 ![Logo](http://i.imgur.com/ewtsGPn.png "Eat healthy, lose weight, shop like a pro and save money.")
 
 #HSLIDE
-## PROBLEM
+## HOW IT IS NOW
 
 For most people who want to lose weight you are supposed to do only one thing: Consume less calories than you need. This often means:
 
@@ -10,7 +10,7 @@ For most people who want to lose weight you are supposed to do only one thing: C
 2. Still eat the right nutritional values. 
 
 #HSLIDE
-## PROBLEM (continued)
+## PROBLEM
 Trying to figure those two things out is very time consuming, you will have to track every food you eat with tools like http://myfitnesspal.com. But:
 
 1. Its hard to guess how much you actually ate. Unless it was the whole can. 
@@ -27,7 +27,9 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
 2. Picked up bundled in your supermarket (not very practical see final thoughts below)
 3. With the use of an app the consumer can be guided to pick these up at the store.
 
-## IDEA: The 2kcal pack (continued)
+#HSLIDE
+## IDEA: The 2kcal pack app
+
 ![App](http://i.imgur.com/PNUL8oC.jpg "A little app helps you to find your 2kcal pack")
 
 #HSLIDE
@@ -35,7 +37,8 @@ So what if people sat together (think of community) and build daily 2000 kcal Pa
 
 1. Its healthy
 2. You can be lazy while dieting
-3. You will save money!
+3. It helps you to shop the right things. 
+4. You will save money!
 
 #HSLIDE
 ## EXAMPLE of a 2kcal Pack
