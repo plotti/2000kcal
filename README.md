@@ -4,7 +4,8 @@
 
 # PITCH
 
-https://gitpitch.com/plotti/2000kcal/master?grs=github&t=white
+[Flip through Slides](https://gitpitch.com/plotti/2000kcal/master?grs=github&t=white)
+[Download PDF](https://gitpitch.com/pitchme/print/github/plotti/2000kcal/master/white/PITCHME.pdf)
 
 # PROBLEM
 
